@@ -40,6 +40,7 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/abhijeet0037/dsa-preparation/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhijeet0037/dsa-preparation/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -57,4 +58,8 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhijeet0037/dsa-preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/abhijeet0037/dsa-preparation/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
