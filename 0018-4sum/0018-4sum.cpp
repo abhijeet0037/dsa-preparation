@@ -17,7 +17,7 @@ public:
                 // Skip duplicates for second element
                 if (j > i + 1 && nums[j] == nums[j - 1])
                     continue;
-
+ 
                 int left = j + 1;
                 int right = n - 1;
 
@@ -48,7 +48,6 @@ public:
                 }
             }
         }
-
         return ans;
     }
 };
