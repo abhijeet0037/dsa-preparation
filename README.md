@@ -15,6 +15,7 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhijeet0037/dsa-preparation/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/abhijeet0037/dsa-preparation/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/abhijeet0037/dsa-preparation/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/abhijeet0037/dsa-preparation/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhijeet0037/dsa-preparation/tree/master/0088-merge-sorted-array) |
@@ -35,6 +36,7 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhijeet0037/dsa-preparation/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/abhijeet0037/dsa-preparation/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhijeet0037/dsa-preparation/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abhijeet0037/dsa-preparation/tree/master/0169-majority-element) |
@@ -55,6 +57,7 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhijeet0037/dsa-preparation/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/abhijeet0037/dsa-preparation/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/abhijeet0037/dsa-preparation/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhijeet0037/dsa-preparation/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
