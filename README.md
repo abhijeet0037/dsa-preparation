@@ -71,4 +71,8 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhijeet0037/dsa-preparation/tree/master/0011-container-with-most-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abhijeet0037/dsa-preparation/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
