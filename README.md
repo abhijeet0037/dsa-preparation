@@ -7,6 +7,7 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhijeet0037/dsa-preparation/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/abhijeet0037/dsa-preparation/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhijeet0037/dsa-preparation/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/abhijeet0037/dsa-preparation/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhijeet0037/dsa-preparation/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -48,6 +50,7 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 | [0075-sort-colors](https://github.com/abhijeet0037/dsa-preparation/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhijeet0037/dsa-preparation/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abhijeet0037/dsa-preparation/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/abhijeet0037/dsa-preparation/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
