@@ -9,6 +9,7 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 | [0020-valid-parentheses](https://github.com/abhijeet0037/dsa-preparation/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/abhijeet0037/dsa-preparation/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/abhijeet0037/dsa-preparation/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/abhijeet0037/dsa-preparation/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/abhijeet0037/dsa-preparation/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhijeet0037/dsa-preparation/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -81,6 +82,7 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 | [0075-sort-colors](https://github.com/abhijeet0037/dsa-preparation/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhijeet0037/dsa-preparation/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/abhijeet0037/dsa-preparation/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/abhijeet0037/dsa-preparation/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/abhijeet0037/dsa-preparation/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
