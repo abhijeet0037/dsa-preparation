@@ -9,11 +9,13 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 | [0020-valid-parentheses](https://github.com/abhijeet0037/dsa-preparation/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/abhijeet0037/dsa-preparation/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/abhijeet0037/dsa-preparation/tree/master/0242-valid-anagram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/abhijeet0037/dsa-preparation/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhijeet0037/dsa-preparation/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhijeet0037/dsa-preparation/tree/master/0084-largest-rectangle-in-histogram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/abhijeet0037/dsa-preparation/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhijeet0037/dsa-preparation/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/abhijeet0037/dsa-preparation/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
