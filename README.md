@@ -101,6 +101,7 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/abhijeet0037/dsa-preparation/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/abhijeet0037/dsa-preparation/tree/master/0206-reverse-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -152,5 +153,6 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/abhijeet0037/dsa-preparation/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/abhijeet0037/dsa-preparation/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
