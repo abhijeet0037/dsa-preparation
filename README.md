@@ -87,6 +87,7 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 | [0151-reverse-words-in-a-string](https://github.com/abhijeet0037/dsa-preparation/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/abhijeet0037/dsa-preparation/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/abhijeet0037/dsa-preparation/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/abhijeet0037/dsa-preparation/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -148,4 +149,8 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhijeet0037/dsa-preparation/tree/master/0852-peak-index-in-a-mountain-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/abhijeet0037/dsa-preparation/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
