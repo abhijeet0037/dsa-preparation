@@ -35,6 +35,7 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 | [0136-single-number](https://github.com/abhijeet0037/dsa-preparation/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/abhijeet0037/dsa-preparation/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/abhijeet0037/dsa-preparation/tree/master/0238-product-of-array-except-self) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhijeet0037/dsa-preparation/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhijeet0037/dsa-preparation/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -117,6 +118,7 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abhijeet0037/dsa-preparation/tree/master/0074-search-a-2d-matrix) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhijeet0037/dsa-preparation/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/abhijeet0037/dsa-preparation/tree/master/0567-permutation-in-string) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhijeet0037/dsa-preparation/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
