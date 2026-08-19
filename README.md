@@ -102,6 +102,7 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhijeet0037/dsa-preparation/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/abhijeet0037/dsa-preparation/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/abhijeet0037/dsa-preparation/tree/master/0206-reverse-linked-list) |
 ## Greedy
@@ -155,6 +156,7 @@ A collection of my LeetCode solutions with optimized approaches and explanations
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhijeet0037/dsa-preparation/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/abhijeet0037/dsa-preparation/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/abhijeet0037/dsa-preparation/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/abhijeet0037/dsa-preparation/tree/master/0876-middle-of-the-linked-list) |
